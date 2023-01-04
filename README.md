@@ -16,5 +16,3 @@ https://rkuhlf-assets.itch.io/aquatic-animal-models
 
 https://assetstore.unity.com/packages/tools/particles-effects/lowpoly-water-107563#content
 
-Gameplay:
-https://youtu.be/2J28ZxQTWuI
